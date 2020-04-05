@@ -29,12 +29,6 @@
     object-fit: contain;
 }
 
-.card-img-bottom {
-    height: 400px;
-    max-width: 400px;
-    object-fit: contain;
-}
-
 h1 {
     font-weight: bolder;
     font-size: 200px;
